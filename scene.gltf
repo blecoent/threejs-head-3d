@@ -1,0 +1,326 @@
+{
+  "accessors": [
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9693465828895569,
+        1.0595184564590454,
+        1.0859798192977905
+      ],
+      "min": [
+        -0.9681580066680908,
+        -1.152483344078064,
+        -2.3269245624542236
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 786384,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9999852180480957,
+        0.9999877214431763,
+        0.9999882578849792
+      ],
+      "min": [
+        -0.9999978542327881,
+        -0.9999998807907104,
+        -0.9992587566375732
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 326925,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1572768,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9695826172828674,
+        1.007043480873108,
+        0.9985785484313965
+      ],
+      "min": [
+        -0.58031165599823,
+        -1.1522648334503174,
+        -2.3269245624542236
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2359152,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9999982714653015,
+        0.9999309778213501,
+        0.9997255206108093
+      ],
+      "min": [
+        -0.9999978542327881,
+        -0.9999945163726807,
+        -0.999973475933075
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1307700,
+      "componentType": 5125,
+      "count": 347430,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 3145536,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.8998212218284607,
+        1.0545690059661865,
+        1.048816204071045
+      ],
+      "min": [
+        -0.9695385098457336,
+        -1.1032098531723022,
+        -2.3213086128234863
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 3931920,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9766384959220886,
+        0.9999715089797974,
+        0.9997237324714661
+      ],
+      "min": [
+        -0.999985933303833,
+        -0.9999370574951172,
+        -0.9984880685806274
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 2697420,
+      "componentType": 5125,
+      "count": 341274,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 4718304,
+      "componentType": 5126,
+      "count": 31888,
+      "max": [
+        0.967042088508606,
+        1.0544912815093994,
+        1.0852406024932861
+      ],
+      "min": [
+        -0.9693295359611511,
+        -1.1475441455841064,
+        -2.286850929260254
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 5100960,
+      "componentType": 5126,
+      "count": 31888,
+      "max": [
+        0.9999554753303528,
+        0.9999715685844421,
+        0.9997909665107727
+      ],
+      "min": [
+        -0.9999982118606567,
+        -0.9997503161430359,
+        -0.9992587566375732
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 4062516,
+      "componentType": 5125,
+      "count": 141939,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "rushivamshi (https://sketchfab.com/rushivamshi)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/stylized-female-head-speed-sculpt-e63b680dfb8646368285018a126f77a0",
+      "title": "Stylized Female Head Speed Sculpt"
+    },
+    "generator": "Sketchfab-12.65.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 4630272,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 5483616,
+      "byteOffset": 4630272,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 10113888,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "material_0",
+      "pbrMetallicRoughness": {
+        "metallicFactor": 0.06227273652047822,
+        "roughnessFactor": 0.6016666759144176
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Object_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0
+          },
+          "indices": 2,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 4,
+            "POSITION": 3
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_2",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 7,
+            "POSITION": 6
+          },
+          "indices": 8,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_3",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 10,
+            "POSITION": 9
+          },
+          "indices": 11,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "name": "PolySphere1.OBJ.cleaner.materialmerger.gles"
+    },
+    {
+      "mesh": 0,
+      "name": "Object_2"
+    },
+    {
+      "mesh": 1,
+      "name": "Object_3"
+    },
+    {
+      "mesh": 2,
+      "name": "Object_4"
+    },
+    {
+      "mesh": 3,
+      "name": "Object_5"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}
